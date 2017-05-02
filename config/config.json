@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "monad",
+    "password": "9A?*&?nYPs",
+    "database": "sequelized_burger",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "be4a1df7fb0249",
+    "password": "b93a6db3",
+    "database": "heroku_970e3bcf5cc91df",
+    "host": "us-cdbr-iron-east-03.cleardb.net",
+    "dialect": "mysql"
+  }
+}
